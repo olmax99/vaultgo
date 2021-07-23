@@ -1,4 +1,4 @@
-module github.com/mittwald/vaultgo
+module github.com/olmax99/vaultgo
 
 go 1.14
 
